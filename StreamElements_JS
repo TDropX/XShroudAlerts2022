@@ -1,0 +1,15 @@
+//get data from the 🤟 StreamElements 🤟 data injection
+const name = '{{name}}';
+const animation = 'wobble';
+const amount = '{{amount}}';
+
+// vanilla es6 query selection (can use libraries and frameworks too)
+const userNameContainer = document.querySelector('#username-container');
+const subscribeContainer = document.querySelector('#subscribe-container');
+const subscribeText = document.querySelector('#subscribe-text');
+const amountContainer = document.querySelector('#amount-container');
+
+
+// change the inner html to animate it 🤪
+userNameContainer.innerHTML = name;
+subscribeText.innerHTML = "[STREAM_EVENT]";
