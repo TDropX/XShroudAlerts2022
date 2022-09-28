@@ -1,0 +1,19 @@
+<div class="text-container">
+    <div class="image-container">
+      <video autoplay width="100%" src="[URL OF UPLOADED WEBM]"></video>
+    </div>
+    <div>
+      
+        <div class="awsome-text-container">
+          <div class="username-disappear">
+            <span id="username-container"></span>
+        </div>
+      </div>
+      
+     	<div id="subscribe-container">
+          <div class="area-disappear">
+        <span id="subscribe-text"></span>
+          </div>
+      	</div>
+    </div>
+</div>
