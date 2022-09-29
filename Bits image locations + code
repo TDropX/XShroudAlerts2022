@@ -1,0 +1,16 @@
+Copy and paste this line below into your JS:
+
+subscribeText.innerHTML = amount + 'x cheered <sub><img height="24" height="24" border="0" src="[LOCATION_OF_BIT_IMAGE]"></sub>';
+
+Then replace [LOCATION_OF_BIT_IMAGE] (in quotation marks) with the following bit image URL which corrosponds to each specific cheer event:
+
+1-99 bits              https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/1/4.gif
+100-999 bits           https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/100/4.gif
+1000-4999 bits         https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/1000/4.gif
+5000-9999 bits         https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/5000/4.gif
+10000-99999 bits       https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/10000/4.gif
+100000+ bits           https://d3aqoihi2n8ty8.cloudfront.net/actions/cheer/dark/animated/100000/4.gif
+
+
+
+Steve-O/TD
