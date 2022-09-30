@@ -8,13 +8,11 @@
 
 .awsome-text-container {
   font-family: '[YOUR FONT]';
-  font-style: italic;
   text-transform: uppercase;  
 }
 
 #subscribe-container, #subscribe-text, #amount-container {
     font-family: '[YOUR_FONT]';
-    font-style: italic;
     text-transform: uppercase;
 }
 
