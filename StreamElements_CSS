@@ -19,7 +19,7 @@
 
 .awsome-text-container {
   color: #FFFFFF;
-  font-size: 28px;
+  font-size: 26px;
   position: absolute;
   top: 35.5%;
   left: 51.0%;
@@ -27,7 +27,7 @@
 }
 
 #username-container {
-  font-size: 28px;
+  font-size: 26px;
   z-index: 1;
   animation-name: text-appear;
   animation-duration: .70s;
