@@ -7,7 +7,7 @@
 }
 
 .awsome-text-container {
-  font-family: '[YOUR FONT]';
+  font-family: '[YOUR_FONT]';
   text-transform: uppercase;  
 }
 
